@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luuh03&label=Profile%20views&color=0e75b6&style=flat" alt="luuh03" /> </p>
 
-- 🔭 I’m currently working on **Wedfy, my final paper project**
+- 🔭 I’m currently working on my **Portfolio**
 
 - 🌱 I’m currently learning **asp.net core, javascript and react.js**
 
