@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luuh03&label=Profile%20views&color=0e75b6&style=flat" alt="luuh03" /> </p>
 
-- 🔭 I’m currently working on my **Portfolio**
+- 🔭 I’m currently doing a **Fullstack Java and React Bootcamp**
 
-- 🌱 I’m currently learning **asp.net core, javascript and react.js**
+- 🌱 I’m currently learning **Java, JavaScript and React.js**
 
 - 📫 How to reach me **luan.queiroz2003@gmail.com**
 
